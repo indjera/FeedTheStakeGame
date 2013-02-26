@@ -1,0 +1,13 @@
+c:\users\ilko\documents\visual studio 2010\Projects\FeedTheSnake\FeedTheSnake\bin\Debug\FeedTheSnake.exe
+c:\users\ilko\documents\visual studio 2010\Projects\FeedTheSnake\FeedTheSnake\bin\Debug\FeedTheSnake.pdb
+c:\users\ilko\documents\visual studio 2010\Projects\FeedTheSnake\FeedTheSnake\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ilko\documents\visual studio 2010\Projects\FeedTheSnake\FeedTheSnake\obj\x86\Debug\MainWindow.baml
+c:\users\ilko\documents\visual studio 2010\Projects\FeedTheSnake\FeedTheSnake\obj\x86\Debug\MainWindow.g.cs
+c:\users\ilko\documents\visual studio 2010\Projects\FeedTheSnake\FeedTheSnake\obj\x86\Debug\App.g.cs
+c:\users\ilko\documents\visual studio 2010\Projects\FeedTheSnake\FeedTheSnake\obj\x86\Debug\FeedTheSnake_MarkupCompile.cache
+c:\users\ilko\documents\visual studio 2010\Projects\FeedTheSnake\FeedTheSnake\obj\x86\Debug\FeedTheSnake.g.resources
+c:\users\ilko\documents\visual studio 2010\Projects\FeedTheSnake\FeedTheSnake\obj\x86\Debug\FeedTheSnake.Properties.Resources.resources
+c:\users\ilko\documents\visual studio 2010\Projects\FeedTheSnake\FeedTheSnake\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ilko\documents\visual studio 2010\Projects\FeedTheSnake\FeedTheSnake\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ilko\documents\visual studio 2010\Projects\FeedTheSnake\FeedTheSnake\obj\x86\Debug\FeedTheSnake.exe
+c:\users\ilko\documents\visual studio 2010\Projects\FeedTheSnake\FeedTheSnake\obj\x86\Debug\FeedTheSnake.pdb
